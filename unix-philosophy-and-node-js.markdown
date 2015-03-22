@@ -1,10 +1,10 @@
-Unix Philosophy and Node.js
+# Unix Philosophy and Node.js
 
 At TxJS the other day, I gave a talk where I mentioned that the Unix Philosophy is a crucial part of the patterns, opinions, and culture of Node.js. As usual, I made my slides available online well in advance of the talk video being available.
 For some reason, this brief mention of “Unix Philosophy” set off a few peoples’ ire. Since I had only 25 minutes, and every slide could probably be its own talk entirely, I was rather light on elaboration. Chances are, the video won’t add all that much context. But the goal was to pique conversation, so maybe that’s a success if it invites criticism. After all, uninformed trolling is just an invitation for education, so I thought I’d explain.
 Eric S. Raymond collected a few of the best explanations of the Unix Philosophy in his book, The Art Of Unix Programming. He elaborates on 17 specific principles, but my favorite formulation of the Unix Philosophy is the terse explanation from Doug McIlroy as quoted by Salus in A Quarter Century of Unix:
 
-This is the Unix philosophy:
+### This is the Unix philosophy:
 * Write programs that do one thing and do it well.
 * Write programs to work together.
 * Write programs to handle text streams, because that is a universal interface.
